@@ -1,4 +1,4 @@
-AIFFEL Data Scientist Campus Code Peer Review Templete
+#AIFFEL Data Scientist Campus Code Peer Review Templete
 코더 : KMJ
 
 리뷰어 : 이지현 
